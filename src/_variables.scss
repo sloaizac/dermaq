@@ -1,0 +1,27 @@
+// ===== THEME COLORS =====
+$color-primary: #0D3B66;      // Deep, trustworthy blue
+$color-secondary: #F9A826;     // Vibrant, action-oriented amber/gold
+$color-accent: #EE964B;       // A softer, complementary orange
+$color-white: #FFFFFF;
+$color-bg-light: #F7F9FB;    // A very light, clean grey for backgrounds
+$color-bg-dark: #0A2B45;       // The darkest blue, for contrast
+$color-text: #333333;         // Standard dark text
+$color-text-light: #F7F9FB;   // Light text for dark backgrounds
+$color-border: #E0E0E0;      // Subtle border color
+
+// ===== TYPOGRAPHY =====
+$font-main: 'Roboto', sans-serif;
+$font-headings: 'Poppins', sans-serif;
+
+// ===== SPACING & SIZING =====
+$spacing-xs: 0.5rem;   // 8px
+$spacing-sm: 1rem;     // 16px
+$spacing-md: 2rem;     // 32px
+$spacing-lg: 4rem;     // 64px
+$spacing-xl: 6rem;     // 96px
+
+// ===== BORDERS & SHADOWS =====
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
+$box-shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.08);
+$box-shadow-lifted: 0 10px 25px rgba(0, 0, 0, 0.12);
