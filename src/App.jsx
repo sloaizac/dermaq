@@ -13,9 +13,9 @@ const App = () => {
     <>
       <SEO 
         title="Diseño y Repotenciación de Maquinaria Industrial | DERMAQ"
-        description="Optimiza tu producción con DERMAQ. Ofrecemos diseño, repotenciación y mantenimiento de equipos industriales en Antioquia. ¡Potencia tu eficiencia hoy!"
+        description="Optimiza tu producción con DERMAQ. Ofrecemos diseño, repotenciación y mantenimiento de equipos industriales en Colombia. ¡Potencia tu eficiencia hoy!"
         ogTitle="DERMAQ: Expertos en Diseño y Repotenciación de Maquinaria Industrial"
-        ogDescription="Llevamos tu operación al siguiente nivel con soluciones de ingeniería electromecánica, automatización de procesos y mantenimiento industrial en Antioquia."
+        ogDescription="Llevamos tu operación al siguiente nivel con soluciones de ingeniería electromecánica, automatización de procesos y mantenimiento industrial en Colombia."
       />
       <Navbar />
       <main>
